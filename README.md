@@ -1,6 +1,7 @@
 # VBA_Stock_Analysis
 Learning to code in VBA using stock market data
-NOTE: There are comments written in my VBA code that align with the notes below.
+##NOTE: There are comments written in my VBA code that align with the notes below.
+##If reader cannot open the .bas files with the Macros code, the code is also placed in the uploaded Word file.
 
 For this assignment, I needed to summarize for each stock ticker the yearly change, percent change, and total volume. 
 Plus, the code had to applied across all three worksheets of data for quick automation.
